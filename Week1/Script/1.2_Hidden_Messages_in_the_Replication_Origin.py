@@ -1,4 +1,5 @@
-
+"""Author: Laura Gutierrez Funderburk
+Date: June 2017"""
 # coding: utf-8
 
 # In[28]:
